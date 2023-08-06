@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c02f56c4.css",
+    "main.js": "/static/js/main.287f619a.js",
+    "static/js/787.4f8866ee.chunk.js": "/static/js/787.4f8866ee.chunk.js",
+    "static/media/omertom.svg": "/static/media/omertom.b2b13f3d464120d678381505d854366d.svg",
+    "static/media/omertom_nocirc.svg": "/static/media/omertom_nocirc.ce8362112ce9b9168ec3805b0cde1a8a.svg",
+    "static/media/ocan_logo.svg": "/static/media/ocan_logo.bb90b1631a1aa306ff39a5ec243fc59e.svg",
+    "index.html": "/index.html",
+    "main.c02f56c4.css.map": "/static/css/main.c02f56c4.css.map",
+    "main.287f619a.js.map": "/static/js/main.287f619a.js.map",
+    "787.4f8866ee.chunk.js.map": "/static/js/787.4f8866ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c02f56c4.css",
+    "static/js/main.287f619a.js"
+  ]
+}
